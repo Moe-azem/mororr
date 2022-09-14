@@ -1,0 +1,35 @@
+<<!DOCTYPE html>
+<html>
+<head>
+	 bake to <a href="indxe.html">home page</a>
+	<meta charset="utf-8">
+	<title>
+		
+	</title>
+</head>
+<body>
+	<form method="post" action="file.html">
+<ul>
+	<h3 align="right"><li><p>نوع الرخصه </p></h3></li>
+<select name="nationality">
+<option selected="selected">عامه </option>
+<option>ملاكي</option>
+
+<style>
+ body{
+ 	background-color:skyblue;
+ 	font-family: Time New Roman;
+ 	
+ }
+ </style>
+ 	<style>
+ 	form{
+	width: 30%;
+	height: 100vh;
+		font-family: Time New Roman;
+ 	font-size:30px;
+}
+</style>
+
+</body>
+</html>
